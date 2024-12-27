@@ -1,0 +1,35 @@
+
+
+h1{
+    background-color: #86A788;
+    color: #FFFDEC;
+    padding: 20px;
+    margin: 0px;
+    
+}
+h2{
+    color: #91AC8F;
+    font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+img{
+    margin: 20px;
+}
+body{
+    background-color: #FFFDEC;
+}
+h3{
+    font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: #91AC8F;
+}
+p,li{
+    font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
